@@ -41,7 +41,7 @@ return [
     'header_changelog_link' => '更新日志',
 
     'main_nav_cta' => '联系人',
-    'main_nav_dashboard' => '仪表盘',
+    'main_nav_dashboard' => '首页',
     'main_nav_family' => '联系人',
     'main_nav_journal' => '日记',
     'main_nav_activities' => '活动',
@@ -59,7 +59,7 @@ return [
     'footer_modal_version_whats_new' => '新增内容',
     'footer_modal_version_release_away' => '您有一个最新发布版本可更新。您应该更新实例. |您已经有:number个版本没有更新，应该更新了。',
 
-    'breadcrumb_dashboard' => '仪表盘',
+    'breadcrumb_dashboard' => '首页',
     'breadcrumb_list_contacts' => '人名单',
     'breadcrumb_archived_contacts' => '存档的联系人',
     'breadcrumb_journal' => '日记',
